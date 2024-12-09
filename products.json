@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "title": "Gaming Table",
+            "img": "images/a.jpg",
+            "desc": "Ergonomic gaming Table designed for comfort and support during long gaming sessions featuring adjustable features."
+        },
+        {
+            "title": "Keyboard",
+            "img": "images/b.jpg",
+            "desc": "RB Tech and Games is the best place to buy budget mechanical keyboards, wireless gaming keyboards and gaming accessories."
+        },
+        {
+            "title": "Gaming Chair",
+            "img": "images/c.jpg",
+            "desc": "Ergonomic gaming Chair designed for comfort and support during long gaming sessions featuring adjustable features."
+        }
+    ]
+}
